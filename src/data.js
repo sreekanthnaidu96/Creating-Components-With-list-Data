@@ -1,0 +1,3 @@
+export const MyBooksList=[{id:1,address:"https://images-na.ssl-images-amazon.com/images/I/41nzI1lhIVL._SY344_BO1,204,203,200_QL70_ML2_.jpg",BookName:"A Promised Land",AuthorName:"Barack Obama "},
+{id:2,address:"https://images-na.ssl-images-amazon.com/images/I/51fESaIGgVL._SX323_BO1,204,203,200_.jpg",BookName:"The Intelligent Investor",AuthorName:"Benjamin Graham"},
+{id:3,address:"https://images-na.ssl-images-amazon.com/images/I/41sXD4WCyGL._SX363_BO1,204,203,200_.jpg",BookName:"Ottolenghi SIMPLE",AuthorName:"Yotam Ottolenghi"}]
